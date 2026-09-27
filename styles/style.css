@@ -4,37 +4,37 @@ body {
   text-underline-offset: 4px;
   text-decoration-skip-ink: none;
   text-decoration-thickness: 1px;
-  }
+}
 
 .header {
   height: 293px;
   display: grid;
   grid-template-columns: 1fr min-content 1fr;
   align-items: center;
-  }
+}
 
 .header_menu {
   padding-left: 50px;
   padding-bottom: 3px;
-  }
+}
 
 .header__links-list {
   display: flex;
   gap: 33px;
   font-size: 18px;
-  }
+}
 
 .header__links-list-item {
   list-style-type: circle;
-  }
+}
 
 .header__links-list-item_no-bullit {
   list-style-type: none;
-  }
+}
 
 .header__link_active {
   text-decoration: none;
-  }
+}
 
 .header__logo-image {
   width: 135px;
@@ -45,7 +45,7 @@ body {
   justify-self: end;
   margin-right: 50px;
   padding-bottom: 3px;
-  }
+}
 
 .address {
   display: flex;
@@ -53,7 +53,7 @@ body {
   font-size: 18px;
   line-height: 24.3px;
   font-style: normal;
-  }
+}
 
 .cover {
   background-image: url(../images/cover.jpg);
@@ -62,7 +62,7 @@ body {
   background-position: 51% 100%;
   min-height: 757px;
   position: relative;
-  }
+}
 
 .overlay {
   background-color: rgb(0 0 0 / 0.6);
@@ -130,14 +130,14 @@ body {
 .bet-button {
   background-color: transparent;
   color: #fff;
-  width :256px;
+  width: 256px;
   height: 51px;
   text-align: center;
 }
 
 .lots {
   padding: 180px 24px 120px;
-  }
+}
 
 .lots__heading {
   font-family: Raleway, sans-serif;
@@ -220,7 +220,7 @@ body {
   grid-template-rows: 240px auto;
   column-gap: 25px;
   row-gap: 7px;
-  }
+}
 
 .about__logo {
   background-color: #000;
