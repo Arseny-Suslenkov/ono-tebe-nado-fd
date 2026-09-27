@@ -79,10 +79,9 @@ body {
 .cover__title-section {
   display: flex;
   justify-content: space-between;
-  position: relative;            
-  z-index: 2;                   
-  padding: 155px 20px 0 50px; 
-  
+  position: relative;
+  z-index: 2;
+  padding: 155px 20px 0 50px;
 }
 
 .cover__title {
@@ -117,7 +116,7 @@ body {
   justify-content: space-between;
   color: #fff;
   font-size: 22px;
-  position: relative;            
+  position: relative;
   z-index: 2;
   align-items: center;
 }
@@ -131,7 +130,7 @@ body {
 .bet-button {
   background-color: transparent;
   color: #fff;
-  width :256px; 
+  width :256px;
   height: 51px;
   text-align: center;
 }
